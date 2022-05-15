@@ -3,7 +3,7 @@ Welome to my git repo mate :)
 
 Here we are:
 Working with dataframes using pandas, datasets, num py, matplot for plotting graphs
-Data Science Models for Regression, Classification and Clustering
+Data Science Models for Regression, Time Series Decomposition, Classification and Clustering
 
 I have uploaded models of Data Science and codes working with basics of data science with the respective dataset used 
 
