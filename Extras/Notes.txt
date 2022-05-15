@@ -1,0 +1,76 @@
+What is DataScience?
+--> Data science is the field of study that combines domain expertise, programming skills, and knowledge of 
+mathematics and statistics to extract meaningful insights from data.
+
+Working with CSV files in python
+
+CSV stands for comma-separated values file
+
+Basically
+
+When we have a large number of data we can work on that data (i.e apply some sorting and visualizing that data) 
+and interpret/conclude some results.
+
+But what this data is?
+--> well we can get this data from surveys, feedback forms and many more.
+    The data can be anything related to the product.
+
+Topics in DataScience
+
+Lists
+Sets
+Tuples
+Dictionaries
+CSV files
+DataFrames
+Matplotlib
+Numpy
+Working with Excel Files in Python
+Pandas
+
+why do we need to use all this?
+--> while working with pandas there are very large amount of data
+    The data will be in the form of csv or excel 
+
+    eg. patients in different country of being infected by corona.
+
+    So to handel this large amount of data we need this data science
+
+What we will do with this data in DataScience?
+--> We will apply some sorting 
+    And visualize this data
+
+    And after that we can tell some marketing schemes
+    or give them the advice about the product production
+
+    eg. we collected the data about two different flavoured candies from the same brand
+    then we analized the data visualized it and concluded that
+    one candy is purchased more and the other is purchased less by the customers
+    so we can tell the factory to produce more candy that the customer like and reduce the 
+    production of candy which is less liked by the customers
+
+    Not only this but we could also note that the sale of theses candies reached the highest 
+    amount in the month of january and the lowest was in october 
+    So we could also say to increase production in the month of jan and decrease in the month 
+    of oct.
+
+    This would help to save resources and hence reducing the loss and increasing in profit.
+
+So, you would have known the value of this data and DataScience in the field of Business. ;)
+
+In DataScience you not only have to know programminng skills (although its the most important)
+but you should know these topics too....
+
+Discovery
+Data Preparation
+Model Planning
+Model Building
+Communicate Results
+Operationalize
+
+Coding Comes in the Data Preparation, Model Planing, Moudel Building only
+
+And The main responsibility is understanding the problem and designing the right solution.
+Coding is a supporting activity.
+
+Main Baat apan ne sirf coding wala part sikha hai aabhi tk XD

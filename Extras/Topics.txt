@@ -1,0 +1,12 @@
+Topics in DataScience
+
+Lists
+Sets
+Tuples
+Dictionaries
+CSV files
+DataFrames
+Matplotlib
+Numpy
+Working with Excel Files in Python
+Pandas
