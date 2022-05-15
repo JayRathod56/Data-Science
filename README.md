@@ -1,9 +1,11 @@
 # Data-Science
-Data Science Models for Regression, Classification and Clustering
-
 Welome to my git repo mate :)
 
-Here I have uploaded models of Data Science with dataset 
+Here we are:
+Working with dataframes using pandas, datasets, num py, matplot for plotting graphs
+Data Science Models for Regression, Classification and Clustering
+
+I have uploaded models of Data Science and codes working with basics of data science with the respective dataset used 
 
 Lets talk about the types of file extensions that i have used
 1. csv (comma seperated file) - can be open with notepad, excel, etc
