@@ -1,0 +1,81 @@
+Supervised ML
+models are trained using labelled dataset, where the model learns about each type of data.
+
+Unsupervised ML
+unsupervised learning is a machine learning technique in which models are not supervised using training dataset. 
+Instead, models itself find the hidden patterns and insights from the given data.
+just like human brain
+
+Soft Classification
+Little error is allowed
+
+Hard Classification
+No error allowed
+
+Vector - set of values
+
+margin - called as support vectors
+[helps to divide classification dataset]
+
+LSVM - Linear Support Vector Machine
+
+SVM - Support Vector Machine
+[used for regression and classification and outliers detection (widely used for classification)]
+[
+How it works
+Finds a hyperplane in an N-dimention (N - Number of features)
+The dimension of the hyperplane depends upon the number of features.
+features - hyperplane
+  2      -    line
+  3      -    2D plane
+ more    -    difficult to imagine
+hyperplane for 3D
+hyperline for 2D
+Data points lying on either side of hyperplane can be attributed to different class.
+]
+
+Regression - Linear Regression & Logistic Regression
+[gives signigicant accuracy with less computational power]
+
+Gradient Descendent - The process of testing each point to find minimum error(called as global minima).
+[most common loss function]
+
+Data types - 
+i) linearly seperable
+[
+linear data
+any linear classifier will work
+eg. LSVM
+]
+
+ii) linearly inseperable
+[
+non-linear data
+kernal trick used on dataset
+Mathematical Function
+or
+go for different kernal shapes
+]
+
+kernal trick - changes 2D dataset into 3D or N-D hyperplane and then classify the data into linear seperable
+
+Advantages of SVM
+i) Effective on high dimensional spaces
+still effective where
+number of dimensions > number of samples
+number of features > number of labels
+ii) memory effecient
+
+Note: For more accuracy your dataset should be balanced
+i.e each class should have equal number of members
+
+
+
+
+
+
+
+
+
+
+
